@@ -1,10 +1,6 @@
 add first line.
-add also between 1st and 2nd line.
+add between 1st and 2nd line.
 add second line.
-<<<<<<< HEAD
-add line wang 1253
-=======
 hi
 hi
 add five line.
->>>>>>> 6f812f9051545caf51a4b0f9d4e3403d21e8bbf2
